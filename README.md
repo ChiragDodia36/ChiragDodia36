@@ -56,8 +56,4 @@
 - 0 critical defects across 4 release cycles at L&T Financial Services
 - 80%+ test coverage on core data-processing modules at IU
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragDodia36&show_icons=true&hide_border=true&count_private=true&theme=default" />
 </p>
