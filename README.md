@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Chirag Dodia 👋</h1>
 
-<!--
-**ChiragDodia36/ChiragDodia36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Mobile Software Engineer · Android · iOS · Flutter · React Native
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://web-portfolio-seven-livid.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/chirag-dodia04">LinkedIn</a> ·
+  <a href="mailto:chiragdodia36@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- Building mobile apps across **Android (Kotlin)**, **iOS (Swift/SwiftUI)**, **Flutter**, and **React Native**
+- Currently: Mobile Developer at **Indiana University Bloomington**
+- Previously: Software Engineer at **L&T Financial Services** · React Native Developer at **DotMinds LLP**
+- MS Computer Science @ Indiana University · GPA 3.65/4
+- Actively looking for **Mobile Engineer / Android Engineer / Software Engineer** roles
+
+---
+
+### Featured projects
+
+| Project | Stack | What makes it unique |
+|---|---|---|
+| [WC26 Fantasy Friends](https://github.com/ChiragDodia36/wc26-fantasy-friends) | Expo Router · TypeScript · FastAPI · PostgreSQL · llama.rn | On-device AI Transfer Advisor using Qwen3 0.6B — streaming inference, no server round-trip |
+| [Cinemora — iOS](https://github.com/ChiragDodia36/Netflix_Clone) | SwiftUI · TMDB API · Core Data · MVVM | Pixel-accurate Netflix clone with async image loading, paginated feeds, iPad support |
+| [NativeMobileAppDev-Android](https://github.com/ChiragDodia36/NativeMobileAppDev-Android) | Kotlin · Jetpack · Android SDK | Native Android development with modern Jetpack components |
+
+---
+
+### Tech stack
+
+**Mobile**
+`Android` `Kotlin` `Swift` `SwiftUI` `UIKit` `Flutter` `Dart` `React Native` `Expo Router` `TypeScript`
+
+**State management**
+`Jetpack ViewModel` `Kotlin Flow` `Coroutines` `GetX` `Bloc` `Redux` `Zustand`
+
+**Backend & data**
+`FastAPI` `Node.js` `PostgreSQL` `SQLite` `Firebase` `ChromaDB` `REST APIs`
+
+**Testing & DevOps**
+`Jest` `Unit / Integration / E2E` `CI/CD (GitHub Actions)` `Docker` `AWS` `Git`
+
+---
+
+### Numbers that matter
+
+- 30% reduction in per-frame memory overhead (iOS + Android pipelines)
+- 20% cut in API round-trip latency via async/await + Kotlin Flow
+- 25% faster screen load times via API layer optimisation
+- 0 critical defects across 4 release cycles at L&T Financial Services
+- 80%+ test coverage on core data-processing modules at IU
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiragDodia36&show_icons=true&hide_border=true&count_private=true&theme=default" />
+</p>
