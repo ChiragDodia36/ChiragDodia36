@@ -27,8 +27,8 @@
 | Project | Stack | What makes it unique |
 |---|---|---|
 | [WC26 Fantasy Friends](https://github.com/ChiragDodia36/wc26-fantasy-friends) | Expo Router · TypeScript · FastAPI · PostgreSQL · llama.rn | On-device AI Transfer Advisor using Qwen3 0.6B — streaming inference, no server round-trip |
-| [BT Transit — Bloomington Transit App](https://github.com/ChiragDodia36/BT_transit_App) | Kotlin · Jetpack Compose · Hilt · Room · GTFS · FastAPI | Real-time bus tracking with AI arrival predictions, bunching detection, and a Glance home screen widget |
 | [Cinemora — iOS](https://github.com/ChiragDodia36/Netflix_Clone) | SwiftUI · TMDB API · Core Data · MVVM | Pixel-accurate Netflix clone with async image loading, paginated feeds, and iPad support |
+| [BT Transit — Bloomington Transit App](https://github.com/ChiragDodia36/BT_transit_App) | Kotlin · Jetpack Compose · Hilt · Room · GTFS · FastAPI | Real-time bus tracking with AI arrival predictions, bunching detection, and a Glance home screen widget |
 | [NativeMobileAppDev-Android](https://github.com/ChiragDodia36/NativeMobileAppDev-Android) | Kotlin · Jetpack · Android SDK | Native Android development with modern Jetpack components |
 
 ---
